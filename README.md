@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Sanya Mehta 👋
 
-<!--
-**Sanya-Mehta17/Sanya-Mehta17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business & Data Analyst with hands-on experience in analyzing
+real-world datasets and building interactive dashboards to
+support business decision-making.
 
-Here are some ideas to get you started:
+🔹 Tools & Skills:
+• Power BI (DAX, Data Modeling, Visualization)
+• Advance Excel (Dashboards, Analysis)
+• SQL 
+• Business & HR Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects:
+• Employee Attrition Analytics Dashboard (Power BI)
+• Comprehensive Sales Insights Dashboard (Excel)
+• Road Accident Analysis & Insights Dashboard (Excel)
+
+📫 LinkedIn: https://www.linkedin.com/in/sanya-mehta-76b738228/
